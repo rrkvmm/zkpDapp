@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "latest": "^0.2.0",
+    "npm": "^10.4.0",
+    "zkapp-cli": "^0.16.0"
+  }
+}
